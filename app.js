@@ -1,1 +1,3 @@
-console.log("Hey")
+let firstCard = 9
+let secondCard = 6
+let sum = firstCard + secondCard
